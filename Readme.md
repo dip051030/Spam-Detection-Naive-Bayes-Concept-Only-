@@ -70,5 +70,3 @@ The Naive Bayes classifier demonstrates excellent performance metrics:
 
 ## License
 MIT License
-
-how 
